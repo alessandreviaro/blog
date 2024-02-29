@@ -1,2 +1,2 @@
-# blog
+# Blog
 A simple blog
