@@ -9,7 +9,7 @@ const posts = [
     },
     {
         title:"Opera GX",
-        content:"Opera GX é um navegador de internet, anunciado em 11 de junho na feira E3 2019, uma versão do navegador Opera feita para jogadores (gamers), desenvolvida pela empresa Opera Software AS."
+        content:"Opera GX é um navegador de internet, anunciado em 11 de junho na feira E3 2019, uma versão do navegador Opera feita para jogadores (gamers), desenvolvida pela empresa Opera Software AS. O navegador possui versão para os sistemas computacionais Microsoft Windows e macOS e para os sistemas móveis Android e iOS. "
     }
 
 ];
